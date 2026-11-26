@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">CustomFCMExample</string>
+    <string name="default_notification_channel_id">custom_fcm_default</string>
+    <string name="default_notification_channel_name">General</string>
+</resources>

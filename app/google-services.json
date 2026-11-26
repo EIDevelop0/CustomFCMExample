@@ -1,0 +1,105 @@
+{
+  "project_info": {
+    "project_number": "1081264535388",
+    "project_id": "test-f2f98",
+    "storage_bucket": "test-f2f98.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1081264535388:android:764d15d4330ce9080df399",
+        "android_client_info": {
+          "package_name": "com.dom.wob.asdasc"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCeTCbPsRKswXWp5hZMGlPuGnw4A2A-Dtg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1081264535388:android:854ba61cb80b80320df399",
+        "android_client_info": {
+          "package_name": "com.example.pushapptest"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCeTCbPsRKswXWp5hZMGlPuGnw4A2A-Dtg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1081264535388:android:f1786304e81ad4390df399",
+        "android_client_info": {
+          "package_name": "com.example.pushtestapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCeTCbPsRKswXWp5hZMGlPuGnw4A2A-Dtg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1081264535388:android:ae1b97d542b13f640df399",
+        "android_client_info": {
+          "package_name": "com.paslonkit.customfcmexample"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCeTCbPsRKswXWp5hZMGlPuGnw4A2A-Dtg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1081264535388:android:e870c36dabdc63b20df399",
+        "android_client_info": {
+          "package_name": "easy.sudoku.puzzle.solver.free"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCeTCbPsRKswXWp5hZMGlPuGnw4A2A-Dtg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
